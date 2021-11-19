@@ -1,0 +1,16 @@
+h1{
+    color: red; font-family: Arial, Helvetica, sans-serif; text-align: center;
+}
+h2{
+    color: darkgreen; font-family: Arial, Helvetica, sans-serif; text-align: center;
+}
+body {
+    font-weight: 400;
+    font-size: medium;
+    font-style: initial;
+    font-stretch: semi-condensed;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: orangered;
+
+} 
