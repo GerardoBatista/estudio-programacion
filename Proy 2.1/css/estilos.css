@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+h1 p:hover{
+    color: rgb(157, 116, 253);
+}
+h1{
+    background-color: red;
+    text-align:center;
+    margin: 20px 20px;
+    width: 260px;
+    height: 160px;
+    position: fixed;
+	display: flow-root;
+    
+
+}
+.blanco{
+    background-color: rgb(243, 97, 97);
+    margin: 20px 20px;
+    width: 100px;
+    height: 100px;
+    position:initial;
+	display: grid;
+    color: rgb(77, 105, 156);
+}
+.rojo{ 
+    background-color: rgb(243, 97, 97);
+    margin: 20px 20px;
+    width: 100px;
+    height: 100px;
+    position:initial;
+	display: inline-flex;
+}
+.rojo p{
+    color: rgb(30, 255, 0);
+    text-align: center;
+}
+.negro{
+    background-color: black;
+    margin: 20px 20px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+	display: inline-flex;
+}
+.negro p{
+    color: rgb(255, 204, 204);
+    text-align: center;
+}
