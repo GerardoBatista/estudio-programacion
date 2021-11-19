@@ -1,0 +1,1 @@
+alert("Bienvenido Esperamos que encuentre lo que busca puede consultarnos o hacer sus pedidos.")
